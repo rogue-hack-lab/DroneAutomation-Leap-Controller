@@ -1,0 +1,16 @@
+{
+  "name": "DroneAutomation-Leap-Controller",
+  "version": "0.0.1",
+  "description": "control a Remote Control vehicle with a Leap Motion",
+  "main": "index.js",
+  "repository": "https://github.com/rogue-hack-lab/DroneAutomation-Leap-Controller.git",
+  "author": "Kevin Conner <kevin.r.conner@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "asciichart": "^1.5.2",
+    "cli-graph": "^3.2.2",
+    "cylon": "^1.3.0",
+    "cylon-api-http": "^0.4.1",
+    "cylon-leapmotion": "^0.21.0"
+  }
+}

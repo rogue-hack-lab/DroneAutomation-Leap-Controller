@@ -9,11 +9,11 @@ let range = {
 	x: { min: -200, max: 200 },
 	y: { min:  150, max: 550 },
 	z: { min: -200, max: 200 },
-	a: { min: -0.7, max: 0.7 } 
+	a: { min: -2.5, max: 2.5 } 
 }
 
 const 
-	hostname = '192.168.1.13',
+	hostname = "192.168.102.73", //"10.37.120.78",//'192.168.1.13',
 	port = 3000,
 	route = '/api/robots/Drone/commands',	
 	command = {
